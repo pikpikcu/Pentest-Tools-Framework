@@ -1,0 +1,17 @@
+
+
+
+    ==========
+
+    Time to exploit!. If you want, you can decide your final code injection(s):
+
+        
+        1)- I want to inject a classic "Alert" message box.
+
+
+        2)- I want to inject my own scripts.
+
+
+        3)- I don't want to inject a final code... I just want to discover vulnerabilities! :-)
+
+    ==========
